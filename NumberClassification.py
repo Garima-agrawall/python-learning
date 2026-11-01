@@ -17,4 +17,4 @@ while i <5:
 
 print("positive number:",count_e)
 print("negative number:",count_o)
-print("zero:",zero)
+print("zero numbers:",zero)
