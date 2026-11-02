@@ -3,7 +3,7 @@ password="python123"
 attemp=0
 while attemp<3:
     password=input("Enter password:")
-    if password=="python123":
+    if password=="python1234":
         print("Login Successful")
         break
     else:
